@@ -2,7 +2,8 @@
 
 ## Introduction
 
-Welcome to DevAxis, an ambitious open-source project aimed at transforming the IT industry by leveraging the power of Artificial Intelligence. At DevAxis, we envision a future where AI-driven technologies empower software engineers, UI designers, and QA engineers, creating a seamless, efficient, and innovative development process. Our project is dedicated to building a platform that simulates an AI IT workforce, capable of understanding and executing complex tasks across various engineering disciplines.
+Welcome to DevAxis, a pioneering open-source project designed to revolutionize the IT industry by harnessing the power of Artificial Intelligence to create a comprehensive IT workforce. Our mission is to develop specialized AI assistants that cater to the diverse needs of the IT landscape, including software engineering, UI/UX design, quality assurance, and more. By integrating these AI-driven capabilities, DevAxis aims to streamline development processes, enhance productivity, and foster innovation across the IT sector.
+
 
 
 ## Vision
